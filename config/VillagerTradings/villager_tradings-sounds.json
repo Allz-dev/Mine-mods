@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "villager_tradings:custom_villager"
+  ],
+  "minIntervalTicks": 200,
+  "maxIntervalTicks": 600,
+  "volume": 1.0,
+  "pitchMin": 0.9,
+  "pitchMax": 1.1
+}

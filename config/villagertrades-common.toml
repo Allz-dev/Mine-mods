@@ -1,0 +1,3 @@
+[general]
+	#Enable datapack-defined custom villager and wandering trader trades.
+	enabled = true

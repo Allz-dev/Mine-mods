@@ -1,0 +1,13 @@
+name = "Uncrafted Coin"
+filename = "uncrafted_coin_(neoforge-1.21.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28ee5dff6ca1dcb4def28d4c872a919150dd0b5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7588054
+project-id = 1455538

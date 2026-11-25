@@ -1,0 +1,13 @@
+name = "Villager Trades"
+filename = "villagertrades-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cHEtH7e1/versions/NWVWZetK/villagertrades-1.0.0.jar"
+hash-format = "sha512"
+hash = "a586fc656488a70af09db209f3ae15e31960d0e7876383687b82ecf8d678c67c3aec13b2b0c6c57bbc0c1b718b30daed8039123e9e62e6d2c9f121c134afd198"
+
+[update]
+[update.modrinth]
+mod-id = "cHEtH7e1"
+version = "NWVWZetK"

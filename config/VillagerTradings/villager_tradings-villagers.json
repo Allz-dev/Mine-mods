@@ -1,0 +1,80 @@
+{
+  "villagers": [
+    {
+      "id": "5bb5affd-a10d-4bd5-b094-4ae2e5c73b4f",
+      "name": "a",
+      "dimension": "minecraft:overworld",
+      "position": {
+        "x": -10788.497020749808,
+        "y": 68.0,
+        "z": -1583.699999988079
+      },
+      "lookAtNearest": false,
+      "soundEnabled": true,
+      "recipe": {
+        "inputs": [
+          {
+            "item": "minecraft:air",
+            "count": 0
+          },
+          {
+            "item": "minecraft:air",
+            "count": 0
+          }
+        ],
+        "result": {
+          "item": "minecraft:diamond",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "d2535824-a4c7-4389-9c65-9ce420f021a5",
+      "name": "Bob",
+      "dimension": "minecraft:overworld",
+      "position": {
+        "x": -10776.551160425299,
+        "y": 68.0,
+        "z": -1593.300000011921
+      },
+      "lookAtNearest": false,
+      "soundEnabled": true,
+      "recipe": {
+        "inputs": [
+          {
+            "item": "minecraft:air",
+            "count": 0
+          }
+        ],
+        "result": {
+          "item": "minecraft:emerald",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3349fc5a-0547-4667-80c7-a8ea3d481a7f",
+      "name": "Bob2",
+      "dimension": "minecraft:overworld",
+      "position": {
+        "x": -10782.234376427397,
+        "y": 69.0,
+        "z": -1579.3859322455246
+      },
+      "lookAtNearest": false,
+      "soundEnabled": true,
+      "recipe": {
+        "inputs": [
+          {
+            "item": "minecraft:air",
+            "count": 0
+          }
+        ],
+        "result": {
+          "item": "minecraft:emerald",
+          "count": 1
+        }
+      }
+    }
+  ]
+}

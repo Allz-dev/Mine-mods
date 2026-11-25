@@ -1,0 +1,13 @@
+name = "Iron's Arms 'n Artifice"
+filename = "irons_artifice-1.21.1-1.0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1930fd75ed0a12f35f582533b6262d5a228c5506"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8974634
+project-id = 1650193

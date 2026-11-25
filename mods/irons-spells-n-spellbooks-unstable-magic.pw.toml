@@ -1,0 +1,13 @@
+name = "Iron's Spells 'n Spellbooks: Unstable Magic"
+filename = "ironsspellsandunstablespellbooks-0.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8553d74648faa1a013c67c6fdc607c3577991d51"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8358429
+project-id = 1595606

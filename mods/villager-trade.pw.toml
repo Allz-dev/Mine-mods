@@ -1,0 +1,13 @@
+name = "Villager Trade"
+filename = "villager_tradings-neoforge-0.13.3-stable.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qtR9WVwd/versions/zEhsfuHa/villager_tradings-neoforge-0.13.3-stable.jar"
+hash-format = "sha512"
+hash = "1348696719947a975f59843153640bbdadd8983e4dce06690468701dff7d3b7b327ee78f6e59e788b461bf8550122834b99b5cf0abcf5a48d67c9c9092291133"
+
+[update]
+[update.modrinth]
+mod-id = "qtR9WVwd"
+version = "zEhsfuHa"

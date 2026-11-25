@@ -1,0 +1,184 @@
+{
+  "profession": "minecraft:armorer",
+  "source": "unknown",
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:dirt",
+        "amount": 3,
+        "enchantments": [
+          {
+            "enchantmentKeys": [
+              "minecraft:knockback"
+            ],
+            "minEnchantmentLevel": 2,
+            "maxEnchantmentLevel": 2
+          },
+          {
+            "enchantmentKeys": [
+              "minecraft:sharpness"
+            ],
+            "minEnchantmentLevel": 1,
+            "maxEnchantmentLevel": 5
+          }
+        ],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "minecraft:cobblestone",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "tradeExp": 10,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_minecraft:dirt_for_minecraft:cobblestone"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "minecraft:iron_ingot",
+        "amount": 2,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "tradeExp": 10,
+      "maxUses": 6,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:armorer_minecraft:emerald_for_minecraft:iron_ingot"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:iron_axe",
+          "amount": 1,
+          "priceModifier": -3,
+          "enchantments": [],
+          "blacklist": [],
+          "effects": []
+        },
+        {
+          "itemKey": "minecraft:golden_axe",
+          "amount": 1,
+          "enchantments": [],
+          "blacklist": [],
+          "effects": []
+        },
+        {
+          "itemKey": "minecraft:diamond_axe",
+          "amount": 1,
+          "priceModifier": 4,
+          "enchantments": [],
+          "blacklist": [],
+          "effects": []
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:iron_ingot",
+        "amount": 6,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "tradeExp": 5,
+      "maxUses": 15,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:armorer_null_offer_for_minecraft:iron_ingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:wooden_sword",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKeys": [
+              "minecraft:mending"
+            ],
+            "minEnchantmentLevel": 1,
+            "maxEnchantmentLevel": 1
+          },
+          {
+            "enchantmentKeys": [
+              "minecraft:looting"
+            ],
+            "minEnchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          },
+          {
+            "enchantmentKeys": [
+              "minecraft:sweeping"
+            ],
+            "minEnchantmentLevel": 1,
+            "maxEnchantmentLevel": 2
+          }
+        ],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "minecraft:quartz",
+        "amount": 5,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "tradeExp": 5,
+      "maxUses": 20,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:armorer_minecraft:wooden_sword_for_minecraft:quartz"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKeys": [
+              "random"
+            ],
+            "minEnchantmentLevel": 2,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklist": [
+          "minecraft:protection",
+          "minecraft:fire_protection"
+        ],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "tradeExp": 10,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_minecraft:enchanted_book_for_minecraft:emerald"
+    }
+  ],
+  "removeOtherTrades": false,
+  "maxTrades": 2
+}

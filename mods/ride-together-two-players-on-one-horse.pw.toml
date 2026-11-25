@@ -1,0 +1,13 @@
+name = "Let's Ride Together (Two players on one horse)"
+filename = "ridetogether-neoforge-1.0.3-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fb260c7ccaee6fe18ede4a4f3f5ed04d0bbed8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8365626
+project-id = 1357198

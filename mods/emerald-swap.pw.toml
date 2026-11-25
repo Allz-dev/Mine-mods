@@ -1,0 +1,13 @@
+name = "emerald swap"
+filename = "emeraldswap-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "245c9b7d516d5247bea24f9466959e7b7d29aa15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8050729
+project-id = 1535978

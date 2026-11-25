@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"weaversparadise:needle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"born_in_chaos_v1:phantom_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:andesite"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

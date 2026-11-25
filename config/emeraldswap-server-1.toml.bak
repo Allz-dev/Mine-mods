@@ -1,0 +1,7 @@
+#EmeraldSwap Configuration
+[trades]
+	
+	replacement_item = "uncrafted_coin:coin"
+	#Si true, reemplaza también el segundo ingrediente del trade cuando también sea esmeralda.
+	#Default: true
+	replace_second_cost = true

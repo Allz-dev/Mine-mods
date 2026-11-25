@@ -1,0 +1,13 @@
+name = "Custom Villager Trades (Forge/NeoForge)"
+filename = "Custom-Villager-Trades-1.21.1-NeoForge-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9837f7518765e90576a36e263ca4f6e6d1c9e5e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8983348
+project-id = 463402

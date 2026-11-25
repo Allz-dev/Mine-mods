@@ -1,0 +1,13 @@
+name = "Chalk: Chars"
+filename = "chalk-chars-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fddad57523e96dc417793c4c5130220193b51c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9527448
+project-id = 1668280

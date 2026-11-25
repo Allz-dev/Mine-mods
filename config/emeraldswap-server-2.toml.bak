@@ -1,0 +1,8 @@
+#EmeraldSwap Configuration
+[trades]
+	#Item que reemplaza a la esmeralda (minecraft:emerald) en el INPUT de los trades.
+	#Usa el formato: 'namespace:item_id'  (ej: 'minecraft:gold_nugget')
+	#Default: minecraft:gold_ingot
+	replacement_item = "uncrafted_coin:coin"
+
+	replace_second_cost = true

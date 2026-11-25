@@ -1,0 +1,13 @@
+name = "AMIGUITOS RELOAD"
+author = "Allzitos"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a94544549ab7e85b5d798c6a6b853e87fcc901f62cf0060a90c831ef2d183084"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.256"

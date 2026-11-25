@@ -1,0 +1,7 @@
+
+[trades]
+	
+
+	replacement_item = "uncrafted_coin:coin"
+
+	replace_second_cost = true

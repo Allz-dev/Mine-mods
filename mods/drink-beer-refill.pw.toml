@@ -1,0 +1,13 @@
+name = "Drink Beer Refill"
+filename = "drinkbeer-refill-1.21.1-neoforge-1.4.2+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c776264c53692a055ee091ef026dfe3f76b71ba0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8884650
+project-id = 729120

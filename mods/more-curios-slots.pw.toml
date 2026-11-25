@@ -1,0 +1,13 @@
+name = "More Curios Slots"
+filename = "more_curios_slots-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99590f78bc5cb9c53fb90f67bed35d498aae8c94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8170156
+project-id = 1344694

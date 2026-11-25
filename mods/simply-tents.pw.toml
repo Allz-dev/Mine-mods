@@ -1,0 +1,13 @@
+name = "Simply Tents"
+filename = "simplytents-5.0-1.21.1.neo.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f5fc24182a3e7802189ed5760ad106dd77a59b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8885082
+project-id = 1152882

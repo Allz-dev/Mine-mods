@@ -1,0 +1,113 @@
+{
+  "Brain": {
+    "memories": {}
+  },
+  "HurtByTimestamp": 0,
+  "GeneWidth": 0.3560606,
+  "GeneEumelanin": 0.46091062,
+  "FoodLevel": 0,
+  "InteractedWith": 0,
+  "Gossips": [],
+  "Gender": 1,
+  "AbsorptionAmount": 0.0,
+  "EyeColorLeft": -1,
+  "HairBangs": "mca:skins/layered_hair/bangs/1.png",
+  "Traits": {
+    "mca:homosexual": 1
+  },
+  "LastRestock": 0,
+  "EyeColor": -786092,
+  "SkinColor": -1,
+  "LastProcreation": 0,
+  "Xp": 0,
+  "HandDropChances": [
+    0.085,
+    0.085
+  ],
+  "PersistenceRequired": 0,
+  "GeneFace": 0.5416667,
+  "AgeState": 5,
+  "Memories": {},
+  "HairStyle": "",
+  "Hair": "",
+  "GenePheomelanin": 0.96158147,
+  "HairExtra": "mca:skins/layered_hair/extra/2.png",
+  "HairBack": "mca:skins/layered_hair/back/6.png",
+  "ChatAIPrompt": "You remember roads and landmarks exceptionally well. A failed harvest taught you never to waste useful food. You like hearing travelers describe places you have never visited.",
+  "CitadelData": {},
+  "HandItems": [
+    {},
+    {}
+  ],
+  "GeneMelanin": 0.24231292,
+  "ArmorDropChances": [
+    0.085,
+    0.085,
+    0.085,
+    0.085
+  ],
+  "Mood": 12,
+  "CustomName": "\"Allz\"",
+  "GiftSaturationQueue": [],
+  "CanPickUpLoot": 1,
+  "VillagerData": {
+    "profession": "minecraft:none",
+    "type": "minecraft:plains",
+    "level": 1
+  },
+  "Skin": "mca:skins/skin/male/1.png",
+  "HurtTime": 0,
+  "Inventory": [],
+  "IsProcreating": 0,
+  "WearArmor": 0,
+  "FallFlying": 0,
+  "ForcedAge": 0,
+  "GeneEyeBrightness": 0.98203593,
+  "HasBaby": 0,
+  "IsPanicking": 0,
+  "HairBase": "mca:skins/layered_hair/base/5.png",
+  "HairFront": "mca:skins/layered_hair/front/10.png",
+  "MCADataVersion": 1,
+  "DeathTime": 0,
+  "BabyAge": 0,
+  "LastGossipDecay": 0,
+  "MoveState": 0,
+  "GeneHemoglobin": 0.0,
+  "nicknames": {},
+  "Age": 1,
+  "HomeVillage": -1,
+  "GeneSize": 0.5,
+  "Health": 20.0,
+  "GeneSkin": 0.32335526,
+  "GeneBreast": 0.056962024,
+  "LeftHanded": 0,
+  "Personality": "mca:odd",
+  "GrowthAmount": 0,
+  "IsBabyMale": 0,
+  "ClothingLocked": 1,
+  "HairColor": -34934,
+  "longTermMemory": {},
+  "RestocksToday": 0,
+  "GeneVoiceTone": 0.3244081,
+  "InfectionProgress": 0.0,
+  "GeneVoice": 0.47236592,
+  "ArmorItems": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Clothes": "mca:skins/clothing/normal/male/fletcher/3.png",
+  "ActiveChore": 0,
+  "attributes": [
+    {
+      "id": "minecraft:generic.movement_speed",
+      "base": 0.5
+    },
+    {
+      "id": "minecraft:generic.attack_damage",
+      "base": 3.0
+    }
+  ],
+  "DespawnDelay": 0
+}

@@ -1,0 +1,13 @@
+name = "Small Ships"
+filename = "smallships-2.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "feaa657df7d6b54b56df11094d390ae52ff6d728"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9149758
+project-id = 450659

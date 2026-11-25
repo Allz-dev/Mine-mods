@@ -1,0 +1,20 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"fantasy_armor:chess_board_knight_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_artifice:arquebus"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:copper_coin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:copper_coinstack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplytents:zip_tent"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_artifice:musket","components":"{\"geckolib:stack_animatable_id\":10L}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_artifice:venom_capsule_modifier"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_artifice:bullet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_artifice:overcharged_powder_modifier"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"born_in_chaos_v1:intoxicatind_bomb"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_jewelry:peridot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_jewelry:necklace","components":"{\"irons_jewelry:jewelry_data\":{parts:{\"irons_jewelry:chain_simple_amulet\":\"irons_jewelry:gold\",\"irons_jewelry:gem_simple_amulet\":\"irons_jewelry:lapis\"},pattern:\"irons_jewelry:simple_amulet\"},\"minecraft:item_name\":\u0027{\"translate\":\"pattern.irons_jewelry.simple_amulet.item\",\"with\":[{\"translate\":\"material.irons_jewelry.lapis\"},{\"translate\":\"material.irons_jewelry.gold\"}]}\u0027}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_jewelry:ring","components":"{\"irons_jewelry:jewelry_data\":{parts:{\"irons_jewelry:band_simple\":\"irons_jewelry:netherite\"},pattern:\"irons_jewelry:simple_band\"},\"minecraft:item_name\":\u0027{\"translate\":\"pattern.irons_jewelry.simple_band.item\",\"with\":[{\"translate\":\"material.irons_jewelry.netherite\"}]}\u0027}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mowziesmobs:naga_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:rope_arrow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"labels:label"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"born_in_chaos_v1:pieceofdarkmetal"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

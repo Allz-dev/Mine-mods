@@ -1,0 +1,13 @@
+name = "Create for twinks. Create addon"
+filename = "create_for_twinks-1.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b45482863cc3d7acf1c007c71849b3dbbad9b1d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8202240
+project-id = 1555276
